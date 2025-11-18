@@ -1,5 +1,6 @@
 # My-Projects
 This is my first repository.
+
 CREATE database school;
 
 CREATE TABLE stu(
